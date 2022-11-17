@@ -25,6 +25,10 @@ Jupyter notebook detailing the process of combining the data tables generated in
 the previous notebooks, the splitting of the data into training and testind sets, 
 and the training of the machine algorithms used to predict the affinity
 
-### 5. requirements.txt
+### 5. Descriptions.pdf
+
+Contains a list of descriptions for all the features that were used for training
+
+### 6. requirements.txt
 
 A requirements file with the list of required packages to run the code
